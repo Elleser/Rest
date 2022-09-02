@@ -1,6 +1,3 @@
-using Microsoft.AspNetCore.Mvc;
-using Rest.Models;
-
 namespace Rest.Controllers
 {
     [ApiController]

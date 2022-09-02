@@ -1,4 +1,4 @@
-namespace Rest
+namespace Rest.Models
 {
     public class WeatherForecast
     {
